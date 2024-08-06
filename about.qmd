@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "My Personal Website"
 ---
 
-I'm a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.
+Hi everyone! I'm Fahim Shafeek, a computer science enthusiast currently pursuing my degree at Saintgits College of Engineering in Kerala, India. I have a deep passion for all things tech, and I'm constantly seeking out new challenges and opportunities to learn and grow in this field. I'm excited to connect with fellow tech enthusiasts and professionals, so feel free to reach out and say hello!
