@@ -6,9 +6,11 @@ format:
     df-print: paged
     toc: true
 text: How to Prepare an Authentic Saudi Arabian Shawaya
-title: Blogpost Example
+title: SAUDI ARABIAN SHAWAYA
 
----Authentic Saudi Arabian Shawaya: A Taste of the Middle East
+---
+
+Authentic Saudi Arabian Shawaya-- A Taste of the Middle East
 Shawaya, a popular grilled chicken dish in Saudi Arabia, boasts a unique blend of flavors and aromas that will transport your taste buds to the heart of the Middle East. Follow this recipe to recreate this delicious dish in your own kitchen.
 
 Yields: 4 servings

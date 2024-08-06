@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "posts/post_with_code.html",
+    "href": "posts/post_with_code.html",
+    "title": "A sample work",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Personal Website",
+    "section": "",
+    "text": "Hi everyone! I’m Fahim Shafeek, a computer science enthusiast currently pursuing my degree at Saintgits College of Engineering in Kerala, India. I have a deep passion for all things tech, and I’m constantly seeking out new challenges and opportunities to learn and grow in this field. I’m excited to connect with fellow tech enthusiasts and professionals, so feel free to reach out and say hello!"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Fav Lyrics\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSAUDI ARABIAN SHAWAYA\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "My Fav Lyrics",
+    "section": "",
+    "text": "أتقبل منهم، أن أكون لست قلد لهم إلا بما يرضيني، كي يرضيني سأكون أنا مثلي تماماً هذا أنا فكوني أعتي، تكفيني، هذا يقيني\nلا لا لا نحتاج مالاً كي نزداد جمالاً جوهرنا هنا في قلبي تلالاً لا لا نُرضي الناس بما لا نرضاه لأنفسنا هذا جمالنا يسمو يتعالى"
+  },
+  {
+    "objectID": "posts/recipe.html",
+    "href": "posts/recipe.html",
+    "title": "SAUDI ARABIAN SHAWAYA",
+    "section": "",
+    "text": "Authentic Saudi Arabian Shawaya– A Taste of the Middle East Shawaya, a popular grilled chicken dish in Saudi Arabia, boasts a unique blend of flavors and aromas that will transport your taste buds to the heart of the Middle East. Follow this recipe to recreate this delicious dish in your own kitchen.\nYields: 4 servings Prep time: 30 minutes (plus marination time) Cook time: 45-60 minutes\nIngredients:\nFor the Chicken:\n1 whole chicken (about 2-2.5 kg), cut into quarters 1 tablespoon olive oil Juice of 1 lemon For the Marinade:\n1/2 cup plain yogurt 1/4 cup tomato paste 4 cloves garlic, minced 2 tablespoons olive oil 1 tablespoon lemon juice 1 tablespoon paprika 1 tablespoon ground cumin 1 tablespoon ground coriander 1 teaspoon turmeric 1 teaspoon black pepper 1/2 teaspoon cayenne pepper (optional) Salt to taste For Serving:\nFlatbreads Hummus Tahini sauce Fresh vegetables (tomatoes, cucumbers, onions) Instructions:\nPrepare the Chicken: Rinse the chicken pieces and pat them dry. Rub them with olive oil and lemon juice. Make the Marinade: In a large bowl, combine all the marinade ingredients. Mix well to form a smooth paste. Marinate the Chicken: Add the chicken pieces to the marinade and coat them thoroughly. Cover the bowl and refrigerate for at least 4 hours or overnight for best results. Preheat the Grill: Preheat your grill to medium-high heat. If using an oven, preheat to 200°C (400°F). Grill the Chicken: Remove the chicken from the marinade and place the pieces on the grill. Cook for 15-20 minutes per side or until cooked through, basting occasionally with any leftover marinade. If using an oven, bake for 45-60 minutes or until the chicken is cooked through. Serve: Serve the Shawaya hot with warm flatbreads, hummus, tahini sauce, and a side of fresh vegetables. Tips:\nFor a smoky flavor, add a few wood chips to your grill. To ensure even cooking, use a meat thermometer to check the internal temperature of the chicken. It should reach 75°C (165°F) in the thickest part. You can adjust the amount of spices in the marinade to suit your taste preferences. Enjoy this authentic Saudi Arabian Shawaya and savor the flavors of the Middle East!"
+  }
+]
