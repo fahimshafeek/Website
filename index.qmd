@@ -2,4 +2,4 @@
 title: "My Personal Webpage"
 ---
 
-This is my personal space on the web. I'm a computer science student with a passion for coding. When I'm not buried in textbooks or code, you'll find me immersed in the worlds of gaming, binge-watching my favorite series, or exploring other forms of entertainment.
+This is my personal space on the web.  I'm a computer science student with a passion for coding. When I'm not buried in textbooks or code, you'll find me immersed in the worlds of gaming, binge-watching my favorite series, or exploring other forms of entertainment.
