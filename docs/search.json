@@ -21,16 +21,16 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Personal Webpage",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Schooling\n\n2015-2017 Modern Middle East International School, Riyadh\n2018-2022 Al Alia Internation Indian School, Riyadh\n\n\n\nProfessional Education\n\n2023-2027 Saintgits College of Engineering, Kottayam"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "My Personal Website",
+    "title": "About Me",
     "section": "",
     "text": "Hi everyone! I’m Fahim Shafeek, a computer science enthusiast currently pursuing my degree at Saintgits College of Engineering in Kerala, India. I have a deep passion for all things tech, and I’m constantly seeking out new challenges and opportunities to learn and grow in this field. I’m excited to connect with fellow tech enthusiasts and professionals, so feel free to reach out and say hello!"
   },
@@ -42,11 +42,11 @@
     "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Fav Lyrics\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSAUDI ARABIAN SHAWAYA\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
     "section": "",
-    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+    "text": "This is my personal space on the web. I’m a computer science student with a passion for coding. When I’m not buried in textbooks or code, you’ll find me immersed in the worlds of gaming, binge-watching my favorite series, or exploring other forms of entertainment."
   },
   {
     "objectID": "posts/post.html",

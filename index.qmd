@@ -2,6 +2,4 @@
 title: "My Personal Webpage"
 ---
 
-Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I'm coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you'll find insights into my projects, interests, and the journey I'm on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my personal space on the web. I'm a computer science student with a passion for coding. When I'm not buried in textbooks or code, you'll find me immersed in the worlds of gaming, binge-watching my favorite series, or exploring other forms of entertainment.
